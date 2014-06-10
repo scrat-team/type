@@ -1,12 +1,9 @@
 {
   "name": "type",
-  "repo": "elf/type",
+  "repo": "scrat-team/type",
   "description": "Detect type of object with Object.prototype.toString",
   "version": "0.1.0",
   "keywords": ["type", "typeof"],
   "scripts": ["index.js"],
-  "remotes": [
-    "http://git.ucweb.local"
-  ],
   "license": "MIT"
 }
